@@ -46,8 +46,6 @@ public class MainActivity extends AppCompatActivity
         displayPrice(quantity * 5);
     }
 
-    //example
-
     /**
      * This method displays the given quantity value on the screen.
      */
