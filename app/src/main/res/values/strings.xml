@@ -1,6 +1,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Title for the application [CHAR LIMIT=12] -->
-    <string name="app_name">JustJava</string>
+    <string name="app_name">Just Java</string>
 
     <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
     <string name="name">Name</string>
